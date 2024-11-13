@@ -16,12 +16,12 @@
 
 def add_numbers(a,b):
     return a + b
-result = add_numbers(1, 7)
+result = add_numbers(25, 6)
 print(result)
 
 def sum_of_list(numbers):
     return sum(numbers)
-result = sum_of_list([1, 2, 3, 4, 5])
+result = sum_of_list([1, 23, 3, 41, 58])
 print(result)
 
 def join_strings(separator, *strings):
